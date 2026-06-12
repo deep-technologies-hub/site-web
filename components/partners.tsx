@@ -21,6 +21,8 @@ const clients: { name: string; logo: string }[] = [
   { name: "Client 10", logo: "/confiance/image23.png" },
   { name: "Client 11", logo: "/confiance/image24.png" },
   { name: "Client 12", logo: "/confiance/image25.png" },
+  { name: "Client 13", logo: "/confiance/image26.png" },
+  { name: "Client 14", logo: "/confiance/image27.png" },
 ]
 
 function LogoMarquee({ items }: { items: { name: string; logo: string }[] }) {
